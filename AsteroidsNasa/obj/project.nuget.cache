@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6PYtgkdy3E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\AsteroidsNasa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

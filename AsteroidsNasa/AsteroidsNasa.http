@@ -1,0 +1,6 @@
+@AsteroidsNasa_HostAddress = http://localhost:5039
+
+GET {{AsteroidsNasa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
