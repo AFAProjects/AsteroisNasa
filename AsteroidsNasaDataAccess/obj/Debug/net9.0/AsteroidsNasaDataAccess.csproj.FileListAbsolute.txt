@@ -1,0 +1,16 @@
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\AsteroidsNasaDataAccess.deps.json
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\AsteroidsNasaDataAccess.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\AsteroidsNasaDataAccess.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\AsteroidsNasaBussiness.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\AsteroidsNasaBussiness.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.csproj.AssemblyReference.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.AssemblyInfoInputs.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.AssemblyInfo.cs
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.sourcelink.json
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\Asteroid.47028C87.Up2Date
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\refint\AsteroidsNasaDataAccess.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\AsteroidsNasaDataAccess.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\ref\AsteroidsNasaDataAccess.dll

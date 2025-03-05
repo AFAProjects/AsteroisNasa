@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{21FCE238-DFCD-4616-A9FE-63FF9E064586}|AsteroidsNasaAplication\\AsteroidsNasaAplication.csproj|c:\\users\\alvaro.fernandez\\desktop\\paragit\\asteroidsnasa\\asteroidsnasaaplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21FCE238-DFCD-4616-A9FE-63FF9E064586}|AsteroidsNasaAplication\\AsteroidsNasaAplication.csproj|solutionrelative:asteroidsnasaaplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +14,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5B9E122C-C073-4D13-87ED-EF0303D0849B}|AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj|c:\\users\\alvaro.fernandez\\desktop\\paragit\\asteroidsnasa\\asteroidsnasadataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B9E122C-C073-4D13-87ED-EF0303D0849B}|AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj|solutionrelative:asteroidsnasadataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{5B9E122C-C073-4D13-87ED-EF0303D0849B}|AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj|c:\\users\\alvaro.fernandez\\desktop\\paragit\\asteroidsnasa\\asteroidsnasadataaccess\\accessnasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9E122C-C073-4D13-87ED-EF0303D0849B}|AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj|solutionrelative:asteroidsnasadataaccess\\accessnasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D858FAD-03C9-4348-BDF6-1EB33673C9E3}|AsteroidsNasa\\AsteroidsNasa.csproj|c:\\users\\alvaro.fernandez\\desktop\\paragit\\asteroidsnasa\\asteroidsnasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D858FAD-03C9-4348-BDF6-1EB33673C9E3}|AsteroidsNasa\\AsteroidsNasa.csproj|solutionrelative:asteroidsnasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 5ae389a48c8fa74b9fa3060f779b20a855380231
     }
   ],
   "DocumentGroupContainers": [
@@ -22,6 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -35,11 +45,27 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T09:28:52.844Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessNasa.cs",
+              "DocumentMoniker": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AccessNasa.cs",
+              "RelativeDocumentMoniker": "AsteroidsNasaDataAccess\\AccessNasa.cs",
+              "ToolTip": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AccessNasa.cs",
+              "RelativeToolTip": "AsteroidsNasaDataAccess\\AccessNasa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:11:13.091Z",
+>>>>>>> 5ae389a48c8fa74b9fa3060f779b20a855380231
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\Class1.cs",
               "RelativeDocumentMoniker": "AsteroidsNasaBussiness\\Class1.cs",
@@ -62,6 +88,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T09:25:37.17Z",
               "EditorCaption": ""
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\Program.cs",
+              "RelativeDocumentMoniker": "AsteroidsNasa\\Program.cs",
+              "ToolTip": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\Program.cs",
+              "RelativeToolTip": "AsteroidsNasa\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:22:17.66Z"
+>>>>>>> 5ae389a48c8fa74b9fa3060f779b20a855380231
             }
           ]
         }

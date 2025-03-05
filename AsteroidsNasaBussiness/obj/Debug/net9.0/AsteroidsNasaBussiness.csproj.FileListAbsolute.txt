@@ -1,0 +1,12 @@
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\bin\Debug\net9.0\AsteroidsNasaBussiness.deps.json
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\bin\Debug\net9.0\AsteroidsNasaBussiness.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\bin\Debug\net9.0\AsteroidsNasaBussiness.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.AssemblyInfoInputs.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.AssemblyInfo.cs
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.sourcelink.json
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\refint\AsteroidsNasaBussiness.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\ref\AsteroidsNasaBussiness.dll
