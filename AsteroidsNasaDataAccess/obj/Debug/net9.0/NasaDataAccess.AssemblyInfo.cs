@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NasaDataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae389a48c8fa74b9fa3060f779b20a855380231")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c1d30b7734fe0ab5081a1be30fe8501cc77aaf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("NasaDataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NasaDataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

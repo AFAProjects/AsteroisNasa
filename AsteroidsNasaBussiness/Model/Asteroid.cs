@@ -18,5 +18,10 @@ namespace AsteroidsNasaBussiness.Model
         public bool is_potentially_hazardous_asteroid { get; set; }
         public List<CloseApproachData> close_approach_data { get; set; }
         public bool is_sentry_object { get; set; }
+
+
+        public double relative_velocity_kmh { get; set; }
+        public string orbiting_body { get; set; }
+        public string close_approach_date { get; set; }
     }
 }
