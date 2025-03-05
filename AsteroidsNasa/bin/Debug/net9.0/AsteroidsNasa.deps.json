@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "AsteroidsNasa/1.0.0": {
         "dependencies": {
+          "AsteroidsNasaAplicationMappers": "1.0.0",
           "AsteroidsNasaBussiness": "1.0.0",
           "AsteroidsNasaDataAccess": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "9.0.1",
@@ -125,10 +126,25 @@
           }
         }
       },
+      "AsteroidsNasaAplicationMappers/1.0.0": {
+        "dependencies": {
+          "AsteroidsNasaBussiness": "1.0.0",
+          "AsteroidsNasaDataAccess": "1.0.0"
+        },
+        "runtime": {
+          "AsteroidsNasaAplicationMappers.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "AsteroidsNasaBussiness/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "runtime": {
           "AsteroidsNasaBussiness.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -141,7 +157,7 @@
         },
         "runtime": {
           "AsteroidsNasaDataAccess.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -272,6 +288,11 @@
       "sha512": "sha512-hgrXeKzyp5OGN8qVvL7A+vhmU7mDJTfGpiMBRL66IcfLOyna8UTLtn3cC3CghamXpRDufcc9ciklTszUGEQK0w==",
       "path": "swashbuckle.aspnetcore.swaggerui/7.2.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+    },
+    "AsteroidsNasaAplicationMappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "AsteroidsNasaBussiness/1.0.0": {
       "type": "project",

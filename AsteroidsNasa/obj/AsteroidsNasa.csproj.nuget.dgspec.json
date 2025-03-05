@@ -4,6 +4,79 @@
     "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\AsteroidsNasa.csproj": {}
   },
   "projects": {
+    "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj",
+        "projectName": "NasaAplicationMappers",
+        "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj",
+        "packagesPath": "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alvaro.fernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj": {
+                "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj"
+              },
+              "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj": {
+                "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -45,11 +118,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -66,16 +145,16 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj": {
+    "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj",
-        "projectName": "AsteroidsNasaDataAccess",
-        "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj",
+        "projectName": "NasaDataAccess",
+        "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj",
         "packagesPath": "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\obj\\",
         "projectStyle": "PackageReference",
@@ -115,7 +194,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -146,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -179,11 +258,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj": {
+                "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj"
+              },
               "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj": {
                 "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj"
               },
-              "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj": {
-                "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj"
+              "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj": {
+                "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj"
               }
             }
           }
@@ -198,7 +280,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -232,7 +314,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BGAgT8zEuI0=",
+  "dgSpecHash": "XlE/AI9OqbU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj",
+  "projectFilePath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.1\\microsoft.extensions.configuration.9.0.1.nupkg.sha512",
     "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",

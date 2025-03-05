@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K3skfU2VRlI=",
+  "dgSpecHash": "osPZ02xzVZY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\AsteroidsNasa.csproj",
+  "projectFilePath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\NasaAsteroids.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
     "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.1\\microsoft.extensions.configuration.9.0.1.nupkg.sha512",

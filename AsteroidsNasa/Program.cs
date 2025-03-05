@@ -1,14 +1,20 @@
+using AsteroidsNasaAplicationMappers.Mappers;
 using AsteroidsNasaDataAccess;
+using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+builder.Services.AddScoped<IAccessNasa, AccessNasa>();
+builder.Services.AddHttpClient("Asteroids", c =>
+{
+    c.BaseAddress = new Uri("https://api.nasa.gov/");
+});
+
+
 builder.Services.AddOpenApi();
 builder.Services.AddScoped<AccessNasa>();
-builder.Services.AddHttpClient();
-
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -39,18 +45,21 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 })
 .WithName("GetWeatherForecast");
-app.MapGet("/asteroids", async (int date,  AccessNasa asteroids) =>
+app.MapGet("/asteroids", async (int days,  IAccessNasa accessNasa) =>
 {
-    if(date > 6)
+    if (days < 1 || days > 7)
     {
-        return Results.BadRequest("Fuera de rango");
+        return Results.BadRequest("El parámetro 'days' debe estar entre 1 y 7.");
     }
-    var dangerousAsteroids = await asteroids.GetAsteroids(date);
-    if (dangerousAsteroids == null)
+
+    var asteroids = await accessNasa.GetAsteroids(days);
+
+    if (asteroids == null || !asteroids.Any())
     {
-        return Results.NotFound();
+        return Results.NotFound("No se encontraron asteroides peligrosos.");
     }
-    return Results.Ok(dangerousAsteroids);
+    var response = ModelModelMapper.Map(asteroids);
+    return Results.Ok(response);
 });
 app.Run();
 

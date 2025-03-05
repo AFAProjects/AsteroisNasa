@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "N+t4FkmPValUQ/oMJsJHWxTauxFZueOKtVsyayRIhWA=",
-  "Source": "AsteroidsNasa",
-  "BasePath": "_content/AsteroidsNasa",
+  "Hash": "wAGxOYvBjhO2RRJWLHK4K+QTU61MlUk2KulomoWxYuk=",
+  "Source": "NasaAsteroids",
+  "BasePath": "_content/NasaAsteroids",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

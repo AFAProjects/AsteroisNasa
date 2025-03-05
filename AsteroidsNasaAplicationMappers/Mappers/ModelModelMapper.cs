@@ -1,20 +1,26 @@
 ﻿using AsteroidsNasaBussiness.Model;
 using AsteroidsNasaDataAccess;
+
 namespace AsteroidsNasaAplicationMappers.Mappers
 {
     public class ModelModelMapper
     {
-        public static Asteroid Map(AccessNasa model)
+        public static List<Asteroid> Map(List<Asteroid> asteroids)
         {
-            return new Asteroid
-            {
-                //Name = model.Name,
-                //Diameter=,
-                //Speed=,
-                //Planet=,
-                //Date=,
-                //Dangerous=
-            };
+            var topAsteroids = asteroids
+                .Where(a => a.Dangerous)
+                .OrderByDescending(a => a.Diameter) 
+                .Select(a => new Asteroid
+                {
+                    Name = a.Name,
+                    Diameter = a.Diameter,
+                    Speed = a.Speed,
+                    Date = a.Date,
+                    Planet = a.Planet,
+                    Dangerous = a.Dangerous
+                })
+                .ToList();
+            return topAsteroids;
         }
     }
 }

@@ -178,9 +178,12 @@
         }
       },
       "AsteroidsNasaBussiness/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "runtime": {
           "AsteroidsNasaBussiness.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

@@ -275,6 +275,9 @@
       "AsteroidsNasaBussiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "compile": {
           "bin/placeholder/AsteroidsNasaBussiness.dll": {}
         },
@@ -774,9 +777,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj",
-      "projectName": "AsteroidsNasaDataAccess",
-      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj",
+      "projectName": "NasaDataAccess",
+      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj",
       "packagesPath": "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\obj\\",
       "projectStyle": "PackageReference",
@@ -816,7 +819,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -847,7 +850,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
