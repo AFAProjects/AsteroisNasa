@@ -119,6 +119,7 @@
           "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.200"
+<<<<<<< HEAD
       },
       "frameworks": {
         "net9.0": {
@@ -281,6 +282,8 @@
           "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.200"
+=======
+>>>>>>> main
       },
       "frameworks": {
         "net9.0": {
