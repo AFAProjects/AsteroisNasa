@@ -10,3 +10,4 @@ C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\o
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\refint\AsteroidsNasaBussiness.dll
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.pdb
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\ref\AsteroidsNasaBussiness.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaBussiness\obj\Debug\net9.0\AsteroidsNasaBussiness.csproj.AssemblyReference.cache

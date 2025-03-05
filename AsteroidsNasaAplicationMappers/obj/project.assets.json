@@ -275,6 +275,9 @@
       "AsteroidsNasaBussiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "compile": {
           "bin/placeholder/AsteroidsNasaBussiness.dll": {}
         },
@@ -282,7 +285,7 @@
           "bin/placeholder/AsteroidsNasaBussiness.dll": {}
         }
       },
-      "AsteroidsNasaDataAccess/1.0.0": {
+      "NasaDataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -291,10 +294,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
-          "bin/placeholder/AsteroidsNasaDataAccess.dll": {}
+          "bin/placeholder/NasaDataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AsteroidsNasaDataAccess.dll": {}
+          "bin/placeholder/NasaDataAccess.dll": {}
         }
       }
     }
@@ -774,16 +777,16 @@
       "path": "../AsteroidsNasaBussiness/AsteroidsNasaBussiness.csproj",
       "msbuildProject": "../AsteroidsNasaBussiness/AsteroidsNasaBussiness.csproj"
     },
-    "AsteroidsNasaDataAccess/1.0.0": {
+    "NasaDataAccess/1.0.0": {
       "type": "project",
-      "path": "../AsteroidsNasaDataAccess/AsteroidsNasaDataAccess.csproj",
-      "msbuildProject": "../AsteroidsNasaDataAccess/AsteroidsNasaDataAccess.csproj"
+      "path": "../AsteroidsNasaDataAccess/NasaDataAccess.csproj",
+      "msbuildProject": "../AsteroidsNasaDataAccess/NasaDataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "AsteroidsNasaBussiness >= 1.0.0",
-      "AsteroidsNasaDataAccess >= 1.0.0"
+      "NasaDataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -793,9 +796,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\AsteroidsNasaAplicationMappers.csproj",
-      "projectName": "AsteroidsNasaAplicationMappers",
-      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\AsteroidsNasaAplicationMappers.csproj",
+      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj",
+      "projectName": "NasaAplicationMappers",
+      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj",
       "packagesPath": "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\obj\\",
       "projectStyle": "PackageReference",
@@ -822,8 +825,8 @@
             "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj": {
               "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj"
             },
-            "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj": {
-              "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj"
+            "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj": {
+              "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj"
             }
           }
         }
@@ -838,7 +841,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -859,7 +862,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

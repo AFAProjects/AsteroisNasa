@@ -39,3 +39,5 @@ C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\AsteroidsNasaBussiness.pdb
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\AsteroidsNasaDataAccess.pdb
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\AsteroidsNasaAplicationMappers.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\AsteroidsNasaAplicationMappers.pdb

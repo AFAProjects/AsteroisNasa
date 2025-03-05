@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Domain", "3-Domain", "{E6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-DataAccess", "4-DataAccess", "{CFA0B1EE-9FDC-4C2C-812F-17D02C42C638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidsNasa", "AsteroidsNasa\AsteroidsNasa.csproj", "{6D858FAD-03C9-4348-BDF6-1EB33673C9E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaAsteroids", "AsteroidsNasa\NasaAsteroids.csproj", "{6D858FAD-03C9-4348-BDF6-1EB33673C9E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidsNasaAplication", "AsteroidsNasaAplication\AsteroidsNasaAplication.csproj", "{21FCE238-DFCD-4616-A9FE-63FF9E064586}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaAplication", "AsteroidsNasaAplication\NasaAplication.csproj", "{21FCE238-DFCD-4616-A9FE-63FF9E064586}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidsNasaBussiness", "AsteroidsNasaBussiness\AsteroidsNasaBussiness.csproj", "{6A1E7848-A220-42C7-9FE5-075A60127F22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidsNasaDataAccess", "AsteroidsNasaDataAccess\AsteroidsNasaDataAccess.csproj", "{5B9E122C-C073-4D13-87ED-EF0303D0849B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaDataAccess", "AsteroidsNasaDataAccess\NasaDataAccess.csproj", "{5B9E122C-C073-4D13-87ED-EF0303D0849B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteroidsNasaAplicationMappers", "AsteroidsNasaAplicationMappers\AsteroidsNasaAplicationMappers.csproj", "{6660479C-0DB7-461A-96D5-20C2F329C801}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaAplicationMappers", "AsteroidsNasaAplicationMappers\NasaAplicationMappers.csproj", "{6660479C-0DB7-461A-96D5-20C2F329C801}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,5 +57,8 @@ Global
 		{6A1E7848-A220-42C7-9FE5-075A60127F22} = {E670E44F-2BD4-4047-9F90-C67425994012}
 		{5B9E122C-C073-4D13-87ED-EF0303D0849B} = {CFA0B1EE-9FDC-4C2C-812F-17D02C42C638}
 		{6660479C-0DB7-461A-96D5-20C2F329C801} = {88CF6944-DF9C-4281-A8AD-DD4A4131FA0A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B33E435-D3C6-4569-8415-532460A982F9}
 	EndGlobalSection
 EndGlobal

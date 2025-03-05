@@ -1,0 +1,16 @@
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\NasaDataAccess.deps.json
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\NasaDataAccess.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\NasaDataAccess.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\AsteroidsNasaBussiness.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\bin\Debug\net9.0\AsteroidsNasaBussiness.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.csproj.AssemblyReference.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.AssemblyInfoInputs.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.AssemblyInfo.cs
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.sourcelink.json
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaData.FD465FAF.Up2Date
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\refint\NasaDataAccess.dll
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\NasaDataAccess.pdb
+C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasaDataAccess\obj\Debug\net9.0\ref\NasaDataAccess.dll

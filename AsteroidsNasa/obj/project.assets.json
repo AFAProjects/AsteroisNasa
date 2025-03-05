@@ -323,6 +323,9 @@
       "AsteroidsNasaBussiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "compile": {
           "bin/placeholder/AsteroidsNasaBussiness.dll": {}
         },
@@ -330,7 +333,21 @@
           "bin/placeholder/AsteroidsNasaBussiness.dll": {}
         }
       },
-      "AsteroidsNasaDataAccess/1.0.0": {
+      "NasaAplicationMappers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "AsteroidsNasaBussiness": "1.0.0",
+          "NasaDataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NasaAplicationMappers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NasaAplicationMappers.dll": {}
+        }
+      },
+      "NasaDataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -339,10 +356,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
-          "bin/placeholder/AsteroidsNasaDataAccess.dll": {}
+          "bin/placeholder/NasaDataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AsteroidsNasaDataAccess.dll": {}
+          "bin/placeholder/NasaDataAccess.dll": {}
         }
       }
     }
@@ -877,17 +894,23 @@
       "path": "../AsteroidsNasaBussiness/AsteroidsNasaBussiness.csproj",
       "msbuildProject": "../AsteroidsNasaBussiness/AsteroidsNasaBussiness.csproj"
     },
-    "AsteroidsNasaDataAccess/1.0.0": {
+    "NasaAplicationMappers/1.0.0": {
       "type": "project",
-      "path": "../AsteroidsNasaDataAccess/AsteroidsNasaDataAccess.csproj",
-      "msbuildProject": "../AsteroidsNasaDataAccess/AsteroidsNasaDataAccess.csproj"
+      "path": "../AsteroidsNasaAplicationMappers/NasaAplicationMappers.csproj",
+      "msbuildProject": "../AsteroidsNasaAplicationMappers/NasaAplicationMappers.csproj"
+    },
+    "NasaDataAccess/1.0.0": {
+      "type": "project",
+      "path": "../AsteroidsNasaDataAccess/NasaDataAccess.csproj",
+      "msbuildProject": "../AsteroidsNasaDataAccess/NasaDataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "AsteroidsNasaBussiness >= 1.0.0",
-      "AsteroidsNasaDataAccess >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.1",
+      "NasaAplicationMappers >= 1.0.0",
+      "NasaDataAccess >= 1.0.0",
       "Swashbuckle.AspNetCore.SwaggerUI >= 7.2.0"
     ]
   },
@@ -898,9 +921,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\AsteroidsNasa.csproj",
-      "projectName": "AsteroidsNasa",
-      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\AsteroidsNasa.csproj",
+      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\NasaAsteroids.csproj",
+      "projectName": "NasaAsteroids",
+      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\NasaAsteroids.csproj",
       "packagesPath": "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\obj\\",
       "projectStyle": "PackageReference",
@@ -924,11 +947,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj": {
+              "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplicationMappers\\NasaAplicationMappers.csproj"
+            },
             "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj": {
               "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj"
             },
-            "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj": {
-              "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj"
+            "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj": {
+              "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj"
             }
           }
         }
@@ -980,5 +1006,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasa\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

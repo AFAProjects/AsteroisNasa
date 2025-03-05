@@ -275,6 +275,9 @@
       "AsteroidsNasaBussiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "compile": {
           "bin/placeholder/AsteroidsNasaBussiness.dll": {}
         },
@@ -282,7 +285,7 @@
           "bin/placeholder/AsteroidsNasaBussiness.dll": {}
         }
       },
-      "AsteroidsNasaDataAccess/1.0.0": {
+      "NasaDataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -291,10 +294,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "compile": {
-          "bin/placeholder/AsteroidsNasaDataAccess.dll": {}
+          "bin/placeholder/NasaDataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AsteroidsNasaDataAccess.dll": {}
+          "bin/placeholder/NasaDataAccess.dll": {}
         }
       }
     }
@@ -774,16 +777,16 @@
       "path": "../AsteroidsNasaBussiness/AsteroidsNasaBussiness.csproj",
       "msbuildProject": "../AsteroidsNasaBussiness/AsteroidsNasaBussiness.csproj"
     },
-    "AsteroidsNasaDataAccess/1.0.0": {
+    "NasaDataAccess/1.0.0": {
       "type": "project",
-      "path": "../AsteroidsNasaDataAccess/AsteroidsNasaDataAccess.csproj",
-      "msbuildProject": "../AsteroidsNasaDataAccess/AsteroidsNasaDataAccess.csproj"
+      "path": "../AsteroidsNasaDataAccess/NasaDataAccess.csproj",
+      "msbuildProject": "../AsteroidsNasaDataAccess/NasaDataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "AsteroidsNasaBussiness >= 1.0.0",
-      "AsteroidsNasaDataAccess >= 1.0.0"
+      "NasaDataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -793,9 +796,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplication\\AsteroidsNasaAplication.csproj",
-      "projectName": "AsteroidsNasaAplication",
-      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplication\\AsteroidsNasaAplication.csproj",
+      "projectUniqueName": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplication\\NasaAplication.csproj",
+      "projectName": "NasaAplication",
+      "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplication\\NasaAplication.csproj",
       "packagesPath": "C:\\Users\\alvaro.fernandez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplication\\obj\\",
       "projectStyle": "PackageReference",
@@ -822,8 +825,8 @@
             "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj": {
               "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaBussiness\\AsteroidsNasaBussiness.csproj"
             },
-            "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj": {
-              "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\AsteroidsNasaDataAccess.csproj"
+            "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj": {
+              "projectPath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj"
             }
           }
         }
@@ -862,5 +865,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplication\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

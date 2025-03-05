@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsteroidsNasaBussiness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9323df11e7426caa5089bbaad8febe9d5e828612")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+021cc59edfd857195f8bbb1883fcfa57dcb67db6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsteroidsNasaBussiness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsteroidsNasaBussiness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
