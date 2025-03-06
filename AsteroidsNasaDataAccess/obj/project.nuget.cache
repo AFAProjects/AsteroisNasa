@@ -1,14 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "dgSpecHash": "NsGfFU+acJE=",
-=======
-  "dgSpecHash": "BGAgT8zEuI0=",
->>>>>>> 5ae389a48c8fa74b9fa3060f779b20a855380231
-=======
   "dgSpecHash": "XlE/AI9OqbU=",
->>>>>>> develop
   "success": true,
   "projectFilePath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaDataAccess\\NasaDataAccess.csproj",
   "expectedPackageFiles": [

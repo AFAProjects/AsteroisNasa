@@ -1,14 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "dgSpecHash": "4ganIFSU6ik=",
-=======
-  "dgSpecHash": "cBptWcY/B+0=",
->>>>>>> 5ae389a48c8fa74b9fa3060f779b20a855380231
-=======
   "dgSpecHash": "8g9H1/xXcLI=",
->>>>>>> develop
   "success": true,
   "projectFilePath": "C:\\Users\\alvaro.fernandez\\Desktop\\ParaGit\\AsteroidsNasa\\AsteroidsNasaAplication\\NasaAplication.csproj",
   "expectedPackageFiles": [
