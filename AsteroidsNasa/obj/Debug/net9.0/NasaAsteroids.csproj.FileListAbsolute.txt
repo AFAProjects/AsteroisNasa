@@ -10,12 +10,6 @@ C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\Newtonsoft.Json.dll
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\AsteroidsNasaBussiness.dll
-C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\NasaAplicationMappers.dll
-C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\NasaDataAccess.dll
-C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\NasaAplicationMappers.pdb
-C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\AsteroidsNasaBussiness.pdb
-C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\bin\Debug\net9.0\NasaDataAccess.pdb
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\obj\Debug\net9.0\NasaAsteroids.csproj.AssemblyReference.cache
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\obj\Debug\net9.0\NasaAsteroids.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\alvaro.fernandez\Desktop\ParaGit\AsteroidsNasa\AsteroidsNasa\obj\Debug\net9.0\NasaAsteroids.AssemblyInfoInputs.cache

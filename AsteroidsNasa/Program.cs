@@ -1,6 +1,6 @@
-using AsteroidsNasaAplicationMappers.Mappers;
 using AsteroidsNasaDataAccess;
 using Microsoft.AspNetCore.Mvc;
+using NasaAplicationMappers.Services.Mappers;
 
 var builder = WebApplication.CreateBuilder(args);
 

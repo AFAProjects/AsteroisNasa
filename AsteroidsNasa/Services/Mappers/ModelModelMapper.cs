@@ -1,8 +1,7 @@
-﻿using AsteroidsNasaBussiness.DTO;
-using AsteroidsNasaBussiness.Model;
+﻿using AsteroidsNasaBussiness.Model;
 using AsteroidsNasaDataAccess;
 
-namespace AsteroidsNasaAplicationMappers.Mappers
+namespace NasaAplicationMappers.Services.Mappers
 {
     public class ModelModelMapper
     {

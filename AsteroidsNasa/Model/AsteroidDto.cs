@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AsteroidsNasaBussiness.DTO
+namespace AsteroidsNasaBussiness.Model
 {
     public class AsteroidDto
     {
